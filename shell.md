@@ -89,3 +89,5 @@ ______
 - `code .` aktueller Ordner wird bei VS Code aufgerufen
 - `open [Datei]` öffnet Datei mit dem Standardprogramm eines Betriebssystems
 - `open .` öffnet Ordner im Finder/Explorer
+
+test new change
